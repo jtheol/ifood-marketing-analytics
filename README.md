@@ -1,5 +1,3 @@
-# ifood-marketing-analytics
-
 ### Key Objectives:
 ---
 1. Conduct thorough data exploration to uncover insights, establish relationships, and enhance comprehension of customer characteristics.
